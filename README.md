@@ -18,7 +18,7 @@ Using **Terraform**, this project provisions:
 
 ```plaintext
 .
-├── sua-bucket/                # Copy the files from the template folder here and modify terraform.tfvars
+├── your-bucket/                # Copy the files from the template folder here and modify terraform.tfvars
 │   ├── main.tf
 │   ├── variables.tf
 │   ├── outputs.tf
